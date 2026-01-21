@@ -1,24 +1,32 @@
-class Solution:
+class Solution(object):
     def evalRPN(self, tokens):
-        stack = []
-        operators = {'+', '-', '*', '/'}
+        """
+        :type tokens: List[str]
+        :rtype: int
+        """
+        # Questions
+        # Will there be invalid expressions?
         
-        for token in tokens:
+        import operator
+        
+        stack = []
+        operators = {
+            '+': lambda x, y: x + y,
+            '-': lambda x, y: x - y,
+            '*': lambda x, y: x * y,
+            '/': lambda x, y: int(operator.truediv(x, y))
+        }
+        
+        for i, token in enumerate(tokens):
             if token not in operators:
                 stack.append(int(token))
-            else:
-                b = stack.pop()
-                a = stack.pop()
-                if token == '+':
-                    stack.append(a + b)
-                elif token == '-':
-                    stack.append(a - b)
-                elif token == '*':
-                    stack.append(a * b)
-                else:  # division
-                    result = abs(a) // abs(b) # abs -- absolut  built in function
-                    if (a < 0) ^ (b < 0):  # if signs differ
-                        result = -result
-                    stack.append(result)
+            elif token in operators:
+                num1 = stack.pop()
+                num2 = stack.pop()
+                res = operators[token](num2, num1)
+                stack.append(res)
         
-        return stack.pop()
+        
+        return stack[-1]
+                
+        
