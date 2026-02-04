@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
