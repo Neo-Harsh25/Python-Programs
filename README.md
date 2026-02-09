@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Neo-Harsh25/Python-Programs/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -58,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
