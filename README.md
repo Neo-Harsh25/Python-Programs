@@ -53,14 +53,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0283-move-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
