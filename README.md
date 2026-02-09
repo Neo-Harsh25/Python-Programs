@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0283-move-zeroes](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0645-set-mismatch) |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
