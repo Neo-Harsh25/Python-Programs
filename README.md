@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Neo-Harsh25/Python-Programs/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
